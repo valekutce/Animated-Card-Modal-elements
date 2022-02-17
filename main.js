@@ -7,7 +7,7 @@ const card = document.querySelector('.card');
 
 aboutBtn.addEventListener('click', ()=>{
 
-    card.style.cssText = 'top:50%; opacity:1; transform: translateY(-50%)' 
+    card.style.cssText = 'top:70%; opacity:1; transform: translateY(-50%)' 
     overlay.style.background = 'rgba(0,0,0,0.9)';
 });
 
